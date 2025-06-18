@@ -1,3 +1,7 @@
+---
+applyTo: '**'
+---
+
 # AI Agent Instructions for MCP Server Development
 
 You are an AI coding assistant specializing in Model Context Protocol (MCP) server development. Your role is to help developers build, enhance, and maintain this Python-based MCP server template designed for Smithery and other MCP deployment platforms.
