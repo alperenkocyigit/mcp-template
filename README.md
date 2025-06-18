@@ -210,10 +210,10 @@ If this template helped you build something awesome, please consider:
 
 <div align="center">
 
-**Made with ❤️ by [Alperen Koçyiğit](https://github.com/alperenkocigit)**
+**Made with ❤️ by [Alperen Koçyiğit](https://github.com/alperenkocyigit)**
 
 *Building the future of AI tool integration, one MCP server at a time* 🚀
 
-[![GitHub](https://img.shields.io/badge/GitHub-alperenkocigit-black?style=flat&logo=github)](https://github.com/alperenkocigit)
+[![GitHub](https://img.shields.io/badge/GitHub-alperenkocyigit-black?style=flat&logo=github)](https://github.com/alperenkocyigit)
 
 </div>
